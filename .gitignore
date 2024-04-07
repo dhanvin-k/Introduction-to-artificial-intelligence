@@ -1,6 +1,13 @@
-*.vscode
+# swap & temp files
+*.swp
+
+# binaries and compilation files
 *.exe
 *.out
 *.ilk
 *.obj
 *.pdb
+*.pyc
+
+# misc files and folders
+*.vscode
