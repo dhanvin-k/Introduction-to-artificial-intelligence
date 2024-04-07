@@ -9,5 +9,8 @@
 *.pdb
 *.pyc
 
+# data files
+*.DAT
+
 # misc files and folders
 *.vscode
